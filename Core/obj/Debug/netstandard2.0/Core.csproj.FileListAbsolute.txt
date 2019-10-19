@@ -1,0 +1,15 @@
+D:\ELVER\GITHUB\TallerMVCWebApi3\src\ApplicationCore\bin\Debug\netstandard2.0\Core.deps.json
+D:\ELVER\GITHUB\TallerMVCWebApi3\src\ApplicationCore\bin\Debug\netstandard2.0\Core.dll
+D:\ELVER\GITHUB\TallerMVCWebApi3\src\ApplicationCore\bin\Debug\netstandard2.0\Core.pdb
+D:\ELVER\GITHUB\TallerMVCWebApi3\src\ApplicationCore\obj\Debug\netstandard2.0\Core.csprojAssemblyReference.cache
+D:\ELVER\GITHUB\TallerMVCWebApi3\src\ApplicationCore\obj\Debug\netstandard2.0\Core.AssemblyInfoInputs.cache
+D:\ELVER\GITHUB\TallerMVCWebApi3\src\ApplicationCore\obj\Debug\netstandard2.0\Core.AssemblyInfo.cs
+D:\ELVER\GITHUB\TallerMVCWebApi3\src\ApplicationCore\obj\Debug\netstandard2.0\Core.dll
+D:\ELVER\GITHUB\TallerMVCWebApi3\src\ApplicationCore\obj\Debug\netstandard2.0\Core.pdb
+D:\ELVER\GITHUB\TallerMVCWebApi3\Core\bin\Debug\netstandard2.0\Core.deps.json
+D:\ELVER\GITHUB\TallerMVCWebApi3\Core\bin\Debug\netstandard2.0\Core.dll
+D:\ELVER\GITHUB\TallerMVCWebApi3\Core\bin\Debug\netstandard2.0\Core.pdb
+D:\ELVER\GITHUB\TallerMVCWebApi3\Core\obj\Debug\netstandard2.0\Core.AssemblyInfoInputs.cache
+D:\ELVER\GITHUB\TallerMVCWebApi3\Core\obj\Debug\netstandard2.0\Core.AssemblyInfo.cs
+D:\ELVER\GITHUB\TallerMVCWebApi3\Core\obj\Debug\netstandard2.0\Core.dll
+D:\ELVER\GITHUB\TallerMVCWebApi3\Core\obj\Debug\netstandard2.0\Core.pdb

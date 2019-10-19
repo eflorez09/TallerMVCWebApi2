@@ -1,0 +1,8 @@
+D:\ELVER\GITHUB\eShopOnWeb\src\ApplicationCore\bin\Debug\netstandard2.0\ApplicationCore.deps.json
+D:\ELVER\GITHUB\eShopOnWeb\src\ApplicationCore\bin\Debug\netstandard2.0\ApplicationCore.dll
+D:\ELVER\GITHUB\eShopOnWeb\src\ApplicationCore\bin\Debug\netstandard2.0\ApplicationCore.pdb
+D:\ELVER\GITHUB\eShopOnWeb\src\ApplicationCore\obj\Debug\netstandard2.0\ApplicationCore.csprojAssemblyReference.cache
+D:\ELVER\GITHUB\eShopOnWeb\src\ApplicationCore\obj\Debug\netstandard2.0\ApplicationCore.AssemblyInfoInputs.cache
+D:\ELVER\GITHUB\eShopOnWeb\src\ApplicationCore\obj\Debug\netstandard2.0\ApplicationCore.AssemblyInfo.cs
+D:\ELVER\GITHUB\eShopOnWeb\src\ApplicationCore\obj\Debug\netstandard2.0\ApplicationCore.dll
+D:\ELVER\GITHUB\eShopOnWeb\src\ApplicationCore\obj\Debug\netstandard2.0\ApplicationCore.pdb

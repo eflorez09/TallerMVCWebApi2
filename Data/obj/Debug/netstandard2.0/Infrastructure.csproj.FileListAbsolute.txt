@@ -1,0 +1,11 @@
+D:\ELVER\GITHUB\eShopOnWeb\src\Infrastructure\bin\Debug\netstandard2.0\Infrastructure.deps.json
+D:\ELVER\GITHUB\eShopOnWeb\src\Infrastructure\bin\Debug\netstandard2.0\Infrastructure.dll
+D:\ELVER\GITHUB\eShopOnWeb\src\Infrastructure\bin\Debug\netstandard2.0\Infrastructure.pdb
+D:\ELVER\GITHUB\eShopOnWeb\src\Infrastructure\bin\Debug\netstandard2.0\ApplicationCore.dll
+D:\ELVER\GITHUB\eShopOnWeb\src\Infrastructure\bin\Debug\netstandard2.0\ApplicationCore.pdb
+D:\ELVER\GITHUB\eShopOnWeb\src\Infrastructure\obj\Debug\netstandard2.0\Infrastructure.csprojAssemblyReference.cache
+D:\ELVER\GITHUB\eShopOnWeb\src\Infrastructure\obj\Debug\netstandard2.0\Infrastructure.AssemblyInfoInputs.cache
+D:\ELVER\GITHUB\eShopOnWeb\src\Infrastructure\obj\Debug\netstandard2.0\Infrastructure.AssemblyInfo.cs
+D:\ELVER\GITHUB\eShopOnWeb\src\Infrastructure\obj\Debug\netstandard2.0\Infrastructure.csproj.CopyComplete
+D:\ELVER\GITHUB\eShopOnWeb\src\Infrastructure\obj\Debug\netstandard2.0\Infrastructure.dll
+D:\ELVER\GITHUB\eShopOnWeb\src\Infrastructure\obj\Debug\netstandard2.0\Infrastructure.pdb
